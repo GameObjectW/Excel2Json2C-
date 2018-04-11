@@ -1,0 +1,2 @@
+# Excel2Json2C-
+读取Excel表格将其中的数据通过Python脚本生成Json文件以及对应的C#实体类
