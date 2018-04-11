@@ -1,7 +1,7 @@
 # Excel2Json2CSharp
 读取Excel表格将其中的数据通过Python脚本生成Json文件以及对应的C#实体类
 
-excel2json2C#文件夹：
+excel2json2C#文件夹：\n
 其中是将Excel文件转换为Json的Python小工具
 文件夹内包含一个Enemypropertytable.xlsx文件供测试
 将Enemypropertytable.xlsx文件拖拽到相同路径下的Change.bat批处理工具上即可生成相应的Json文件以及对应的C#实体类
